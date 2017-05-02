@@ -1,3 +1,4 @@
+# Michael Sagapolutele, 5-2-17
 # create variable to tell loop to end, boolean
 # create variable to keep track if "GOODBYE!" is said, boolean
 # output introductory phrase
